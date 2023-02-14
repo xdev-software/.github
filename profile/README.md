@@ -1,6 +1,7 @@
 <div align="center">
 
 ![XDEV](profile/xdev-open-source.png)
+![XDEV](https://github.com/xdev-software/.github/blob/master/profile/xdev-open-source.png)
 
 Your development partner. We develop software for you or together with you.
 
