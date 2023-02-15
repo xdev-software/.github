@@ -12,6 +12,11 @@ Your development partner. We develop software for you or together with you.
 ## XDEV Application Framework
 
 <table width="100%">
+<style>
+    table {
+        width: 100%;
+    }
+</style>
 <tr>
   <td width="50%">
 
