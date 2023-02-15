@@ -15,7 +15,7 @@ Your development partner. We develop software for you or together with you.
 <tr>
   <td width="50%">
 
-  [**XDEV Application Framework**](https://github.com/xdev-software/xapi)
+  [**XDEV Application Framework - (xapi)**](https://github.com/xdev-software/xapi)
 
   The XDEV Application Framework is the core of every application developed with XDEV-IDE.
   
@@ -24,7 +24,7 @@ Your development partner. We develop software for you or together with you.
 
   <td width="50%">
 
-  [**XDEV Application Framework - JavaFX**](https://github.com/xdev-software/xapi-fx)  
+  [**XDEV Application Framework - JavaFX - (xapi-fx)**](https://github.com/xdev-software/xapi-fx)  
 
    The JavaFX part of the XDEV Application Framework.
   
@@ -34,7 +34,7 @@ Your development partner. We develop software for you or together with you.
 <tr>
   <td width="50%">
 
-  [**XDEV Component Suite**](https://github.com/xdev-software/csapi)  
+  [**XDEV Component Suite - (csapi)**](https://github.com/xdev-software/csapi)  
 
   The XDEV Component Suite provides you with additional components.
   
@@ -43,7 +43,7 @@ Your development partner. We develop software for you or together with you.
 
   <td width="50%">
 
-  [**XDEV Business Inteligence Suite**](https://github.com/xdev-software/biapi)  
+  [**XDEV Business Inteligence Suite - (biapi)**](https://github.com/xdev-software/biapi)  
 
   The XDEV Business Inteligence Suite provides you with additional business components.
   
@@ -53,7 +53,7 @@ Your development partner. We develop software for you or together with you.
 <tr>
   <td colspan=2 width="100%">
 
-  [**XDEV SqlEngine Connectors**](https://github.com/orgs/xdev-software/repositories?q=xapi-db)  
+  [**XDEV SqlEngine Connectors - (xapi-db-*)**](https://github.com/orgs/xdev-software/repositories?q=xapi-db)  
   All the different connectors for the XDEV Application Framework.
   </td>
 </tr>
