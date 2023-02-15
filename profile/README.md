@@ -17,14 +17,16 @@ Your development partner. We develop software for you or together with you.
 
   [**XDEV Application Framework**](https://github.com/xdev-software/xapi)
 
-      
+  The XDEV Application Framework is the core of every application developed with XDEV-IDE.
   
   [![Latest version](https://img.shields.io/maven-central/v/com.xdev-software/xapi)](https://mvnrepository.com/artifact/com.xdev-software/xapi)
   </td>
 
   <td width="50%">
 
-  [**XDEV Application Framework - the JavaFX part**](https://github.com/xdev-software/xapi-fx)  
+  [**XDEV Application Framework - JavaFX**](https://github.com/xdev-software/xapi-fx)  
+
+   The JavaFX part of the XDEV Application Framework.
   
   [![Latest version](https://img.shields.io/maven-central/v/com.xdev-software/xapi-fx)](https://mvnrepository.com/artifact/com.xdev-software/xapi-fx)
   </td>
@@ -33,13 +35,17 @@ Your development partner. We develop software for you or together with you.
   <td width="50%">
 
   [**XDEV Component Suite**](https://github.com/xdev-software/csapi)  
+
+  The XDEV Component Suite provides you with additional components.
   
   [![Latest version](https://img.shields.io/maven-central/v/com.xdev-software/csapi)](https://mvnrepository.com/artifact/com.xdev-software/csapi)
   </td>
 
   <td width="50%">
 
-  [**XDEV BI Suite**](https://github.com/xdev-software/biapi)  
+  [**XDEV Business Inteligence Suite**](https://github.com/xdev-software/biapi)  
+
+  The XDEV Business Inteligence Suite provides you with additional business components.
   
   [![Latest version](https://img.shields.io/maven-central/v/com.xdev-software/biapi)](https://mvnrepository.com/artifact/com.xdev-software/biapi)
   </td>
@@ -60,7 +66,8 @@ Your development partner. We develop software for you or together with you.
 <tr>
   <td width="50%">
 
-  [**Vaadin Date Range Picker**](https://github.com/xdev-software/vaadin-date-range-picker)  
+  [**Vaadin Date Range Picker**](https://github.com/xdev-software/vaadin-date-range-picker)
+
   Vaadin Flow DateRangePicker implementation.
   
   [![Latest version](https://img.shields.io/maven-central/v/com.xdev-software/vaadin-date-range-picker)](https://mvnrepository.com/artifact/com.xdev-software/vaadin-date-range-picker)
@@ -69,6 +76,7 @@ Your development partner. We develop software for you or together with you.
   <td width="50%">
 
   [**Vaadin Chip ComboBox**](https://github.com/xdev-software/vaadin-chip-combobox)  
+
   A ComboBox with Chips/Chip Components for Vaadin Flow.
   
   [![Latest version](https://img.shields.io/maven-central/v/com.xdev-software/vaadin-chip-combobox)](https://mvnrepository.com/artifact/com.xdev-software/vaadin-chip-combobox)
@@ -78,6 +86,7 @@ Your development partner. We develop software for you or together with you.
   <td width="50%">
 
   [**Vaadin Maps Leaflet Flow**](https://github.com/xdev-software/vaadin-maps-leaflet-flow)  
+
   Vaadin Flow Java API for Leaflet Maps Component.
   
   [![Latest version](https://img.shields.io/maven-central/v/com.xdev-software/vaadin-maps-leaflet-flow)](https://mvnrepository.com/artifact/com.xdev-software/vaadin-maps-leaflet-flow)
@@ -86,6 +95,7 @@ Your development partner. We develop software for you or together with you.
   <td width="50%">
 
   [**Vaadin Grid Exporter**](https://github.com/xdev-software/vaadin-grid-exporter)  
+
   Makes it possible to export Vaadin Grids to different formats.
   
   [![Latest version](https://img.shields.io/maven-central/v/com.xdev-software/vaadin-grid-exporter)](https://mvnrepository.com/artifact/com.xdev-software/vaadin-grid-exporter)
@@ -96,6 +106,7 @@ Your development partner. We develop software for you or together with you.
   <td width="50%">
 
   [**Vaadin Editable Label**](https://github.com/xdev-software/vaadin-editable-label)  
+
   A collection of labels which can be edited on click for Vaadin Flow.
   
   [![Latest version](https://img.shields.io/maven-central/v/com.xdev-software/vaadin-editable-label)](https://mvnrepository.com/artifact/com.xdev-software/vaadin-editable-labelr)
@@ -115,6 +126,7 @@ Your development partner. We develop software for you or together with you.
   <td width="100%">
 
   [**XDEV MicroMigration**](https://github.com/xdev-software/micro-migration)  
+
   Tiny java library to migrate [MicroStream](https://microstream.one/) datastores. Applies migration scripts on the datastores to keep them up to date.
   
   [![Latest version](https://img.shields.io/maven-central/v/software.xdev/micro-migration)](https://mvnrepository.com/artifact/software.xdev/micro-migration)
