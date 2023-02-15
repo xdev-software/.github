@@ -53,8 +53,8 @@ Your development partner. We develop software for you or together with you.
 <tr>
   <td colspan=2 width="100%">
 
-  [**XDEV SqlEngine Connectors - (xapi-db-*)**](https://github.com/orgs/xdev-software/repositories?q=xapi-db)  
-  All the different connectors for the XDEV Application Framework.
+  [**XDEV SqlEngine Adaptors - (xapi-db-*)**](https://github.com/orgs/xdev-software/repositories?q=xapi-db)  
+  All the different adaptors for the XDEV Application Framework.
   </td>
 </tr>
 </table>
