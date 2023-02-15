@@ -1,3 +1,11 @@
+<head>
+<style>
+    table {
+        width: 100%;
+    }
+</style>
+</head>
+<body>
 <div align="center">
 
 ![XDEV](https://github.com/xdev-software/.github/blob/master/profile/xdev-open-source.png)
@@ -12,11 +20,6 @@ Your development partner. We develop software for you or together with you.
 ## XDEV Application Framework
 
 <table width="100%">
-<style>
-    table {
-        width: 100%;
-    }
-</style>
 <tr>
   <td width="50%">
 
@@ -124,5 +127,4 @@ Your development partner. We develop software for you or together with you.
   </td>
 </tr>
 </table>
-
-<br>
+</body>
