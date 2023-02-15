@@ -12,23 +12,23 @@ Your development partner. We develop software for you or together with you.
 ## XDEV Application Framework
 
 <table width="100%">
-  <thead>
-    <tr>
-      <th width="50%">
+<tr>
+  <td width="50%">
 
   [**XDEV Application Framework**](https://github.com/xdev-software/xapi)
+
+      
   
   [![Latest version](https://img.shields.io/maven-central/v/com.xdev-software/xapi)](https://mvnrepository.com/artifact/com.xdev-software/xapi)
-  </th>
-      <th width="50%">
+  </td>
+
+  <td width="50%">
 
   [**XDEV Application Framework - the JavaFX part**](https://github.com/xdev-software/xapi-fx)  
   
   [![Latest version](https://img.shields.io/maven-central/v/com.xdev-software/xapi-fx)](https://mvnrepository.com/artifact/com.xdev-software/xapi-fx)
-  </th>
-    </tr>
-  </thead>
-  <tbody>
+  </td>
+</tr>
 <tr>
   <td width="50%">
 
@@ -121,3 +121,4 @@ Your development partner. We develop software for you or together with you.
   </td>
 </tr>
 </table>
+</body>
