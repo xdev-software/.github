@@ -1,11 +1,3 @@
-<head>
-<style>
-    table {
-        width: 100%;
-    }
-</style>
-</head>
-<body>
 <div align="center">
 
 ![XDEV](https://github.com/xdev-software/.github/blob/master/profile/xdev-open-source.png)
@@ -20,21 +12,23 @@ Your development partner. We develop software for you or together with you.
 ## XDEV Application Framework
 
 <table width="100%">
-<tr>
-  <td width="50%">
+  <thead>
+    <tr>
+      <th width="50%">
 
   [**XDEV Application Framework**](https://github.com/xdev-software/xapi)
   
   [![Latest version](https://img.shields.io/maven-central/v/com.xdev-software/xapi)](https://mvnrepository.com/artifact/com.xdev-software/xapi)
-  </td>
-
-  <td width="50%">
+  </th>
+      <th width="50%">
 
   [**XDEV Application Framework - the JavaFX part**](https://github.com/xdev-software/xapi-fx)  
   
   [![Latest version](https://img.shields.io/maven-central/v/com.xdev-software/xapi-fx)](https://mvnrepository.com/artifact/com.xdev-software/xapi-fx)
-  </td>
-</tr>
+  </th>
+    </tr>
+  </thead>
+  <tbody>
 <tr>
   <td width="50%">
 
@@ -127,4 +121,3 @@ Your development partner. We develop software for you or together with you.
   </td>
 </tr>
 </table>
-</body>
