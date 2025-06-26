@@ -9,10 +9,10 @@
 </div>
 
 <ul>
-  <li><a href="https://github.com/xdev-software?q=jcon&sort=stargazers">Conference Tools</a></li>
-  <li><a href="https://github.com/xdev-software?q=eclipse-store&sort=stargazers">EclipseStore/Microstream Tools</a></li>
-  <li><a href="https://github.com/xdev-software?q=intellij-plugin&sort=stargazers">IntelliJ Plugins</a></li>
-  <li><a href="https://github.com/xdev-software?q=spring&sort=stargazers">Spring Integrations</a></li>
-  <li><a href="https://github.com/xdev-software?q=testcontainers&sort=stargazers">Testcontainer Tools</a></li>
-  <li><a href="https://github.com/xdev-software?q=vaadin&sort=stargazers">Vaadin Addons</a></li>
+  <li><a href="https://github.com/xdev-software?q=jcon&sort=stargazers&type=public">Conference Tools</a></li>
+  <li><a href="https://github.com/xdev-software?q=eclipse-store&sort=stargazers&type=public">EclipseStore/Microstream Tools</a></li>
+  <li><a href="https://github.com/xdev-software?q=intellij-plugin&sort=stargazers&type=public">IntelliJ Plugins</a></li>
+  <li><a href="https://github.com/xdev-software?q=spring&sort=stargazers&type=public">Spring Integrations</a></li>
+  <li><a href="https://github.com/xdev-software?q=testcontainers&sort=stargazers&type=public">Testcontainer Tools</a></li>
+  <li><a href="https://github.com/xdev-software?q=vaadin&sort=stargazers&type=public">Vaadin Addons</a></li>
 </ul>
